@@ -1,0 +1,63 @@
+<html>
+	<head>
+		<title> AITANA-MI PRIMERA WEB </title>
+		<link href="estilo1.css" type="text/css" rel="stylesheet">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Aladin&family=Comic+Neue:wght@300&family=Sriracha&display=swap" rel="stylesheet">
+		<meta charset="utf-8"/>
+		<meta name="author" content="AITANA RUIZ DE LA CUESTA ORTEGA" />
+		<meta name="description" content="Página web que cuenta actividades, hobbies e información sobre mi día a día"/>
+		<meta name="keywords" content="películas,horario,hobbies,gustos, webs"/>
+		<meta name="robots" content="index,follow"/>
+		<link  rel="shortcut icon" href="imágenes/icono.png" type="image/x-icon" />
+
+	</head>
+	<body>
+			<h1>Aitana-Mi primera web </h1>
+			<h2>Quién soy yo</h2>
+			<p>Hola, soy <strong>Aitana</strong>  y tengo 15 años.Estudio 4ºESO en <em> IES Carrús </em>. Me gusta la moda, viajar, la playa y hacer planes con mis amigas.
+			</p>
+			<h3> Quién quiero ser </h3>
+			<p> Pues, a mi me gustaría ser una buena persona,que haya viajado mucho y disfrutado; además, me gustaría dedicarme a la medicina o a la enseñanza. </p>
+			<img src="imágenes/profe.webp" alt="imagen de una profesora">  
+		  	<img src="imágenes/olas.jpg" width="512" height="512" alt=" imagen del mar">
+			<h2>Cosas que me gusta hacer</h2>
+			<ul>
+			  <li> Ver series  </li> 
+			  <li> Ir de compras/la moda</li>
+			  <li> Viajar </li>
+			  <li> La playa y el verano</li>
+			  <li> Quedar con mis amigas</li> 
+			</ul>
+			<h2> Mis <strong> 5</strong> webs favoritas</h2>
+			<ol>
+			  <li><a href="https://www.canva.com/" > canva</a>, me gusta para hacer trabajos creativos </li>
+			  <li><a href="https://www.stradivarius.com/es/">  stradivarious</a>, me gusta la página porque puedo mirar la ropa que me gusta y comprarla online</li>
+			  <li><a href="https://es.shein.com/" > shein</a>, me gusta mucho el estilo de la ropa y la organización de la página</li</li>
+			  <li><a href="https://open.spotify.com/intl-es" > spotify</a>, muy buena página para escuchar música y crear playlist, además puedes seguir a otros usuarios</li>
+			  <li><a href="https://www.youtube.com/" > youtube</a> , es una de mis páginas favoritas ya que la uso para entretenerme y mirar videos de creadores de contenido en mi tiempo libre</li>
+			</ol>
+		 <h2>Mis <strong> 5 </strong> películas favoritas(trailers)</h2>
+		  <ul>
+		     <li> <iframe width="560" height="315" src="https://www.youtube.com/embed/xhzBmjdehPA?si=EQ5T6WawaK01Auuv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+		     <li><iframe width="560" height="315" src="https://www.youtube.com/embed/K0LLaybEuzA?si=cNtnuodDU05bS558" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </li>
+		     <li> <iframe width="560" height="315" src="https://www.youtube.com/embed/ee3XOCH-pok?si=StalF131WIPihcfK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+		     <li> <iframe width="560" height="315" src="https://www.youtube.com/embed/KyoDGNYUimM?si=v2T55UEMl3Wb3LUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+		     <li><iframe width="560" height="315" src="https://www.youtube.com/embed/hkcOr84jFnU?si=LR4_sIRVfUSTF7AC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></li>
+		  </ul>
+		  <h2>Mi horario</h2> 
+		  <table summary="Horario">
+		  <tr><td><strong> HORAS</strong></td><td><strong> Lunes</strong></td><td><strong> Martes </strong> </td><td><strong> Miércoles </strong></td><td><strong> Jueves </strong></td><td><strong> Viernes</strong></td></tr>
+		  <tr><td>8.00-8.55</td><td>Matemáticas</td><td>Física y Química</td><td>Atención Educativa</td><td>Física y Química</td><td>Valores</td></tr>
+		  <tr><td>8:55-9:50</td><td>Digitalización</td><td>Inglés</td><td>Física y Química</td><td>Valenciano</td><td>Matemáticas</td></tr>
+		  <tr><td>9:50-10:40</td><td>Castellano</td><td>Geografía y Historia</td><td>Inglés</td><td>Educación Física</td><td>Inglés</td></tr>
+		  <tr><td>10:40-11:05</td><td		  colspan="5">Recreo</td>
+		  <tr><td>11:05-12:00</td><td>Biología</td><td>Taller de Biología</td><td>Taller de biología</td><td>Geografía y Historia</td><td>Digitalización</td></tr>
+		  <tr><td>12:00-12:55</td><td>Educación Física</td><td>Valenciano</td><td>Digitalización</td><td>Matemáticas</td><td>Biología</td></tr>
+		  <tr><td>12:55-13:15</td><td colspan="5">Recreo</td>
+		  <tr><td>13:15-14:10</td><td>Tutoría</td><td>Castellano</td><td>Matemáticas</td><td>Valores</td><td>Geografía y Historia</td></tr>
+		  <tr><td>14:10-15:05</td><td>Valenciano</td><td>Biología</td><td></td><td>Castellano</td><td></td></tr>
+		  </table>
+	</body>
+</html>
